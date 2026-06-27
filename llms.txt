@@ -1,0 +1,51 @@
+# Appdaddy.ai
+
+> Appdaddy.ai is the world's fastest super-AI business ecosystem. It lets business owners, coaches, consultants, marketing agencies and freelancers find, plan, build and launch a complete marketing funnel in about 10 minutes using 20+ AI apps under one login — with no code and no team.
+
+## Key facts
+- Category: AI business ecosystem / SaaS (a "twenty-plus AI app studio").
+- Core promise: from niche to a launched marketing funnel in ~10 minutes.
+- Guided four-step flow: Find, Think, Build, Launch.
+- Built for: business owners, coaches, consultants, marketing agencies, freelancers, course creators.
+- Scale: 3000+ active subscribers.
+- One unified login for all apps; each app shares your brand knowledge.
+- Contact: info@appdaddy.ai
+
+## The 20+ AI apps
+- Niche Finder — real-time market, competitor and ICP analysis with a ready GTM plan.
+- Knowledge Base — add brand knowledge so every AI app and chatbot answers in your voice.
+- AEO Launchpad — auto-AEO analysis and launcher for organic and answer-engine traffic.
+- AEO Website Builder — AEO-optimised landing pages, funnels and full sites in minutes.
+- LMS — upload and sell courses alongside your software.
+- App Builder — build custom mini/micro apps (enterprise).
+- Video Studio — text-to-video, image-to-video and UGC-style videos.
+- Image Studio — scroll-stopping image ads and website visuals.
+- VidEd — auto-cut short reels from long-form videos.
+- Book Writer — books up to 80k words with cover design and Amazon-ready formatting.
+- AI Blog Writer — SEO blogs with automatic backlinks.
+- Humaniser — natural, human-sounding content.
+- Meta Ads AI — launch Meta ads directly from Appdaddy.
+- WhatsApp API — broadcast messages via the official WhatsApp Business API.
+- IVR Call — broadcast IVR calling campaigns to leads.
+- Dual Chat — ChatGPT and Claude side by side.
+- AI Chatbot — build and deploy unlimited AI chatbots.
+
+## Enterprise
+- White Label: run the entire platform under your own brand, logo and domain and sell to unlimited users. Available by request (info@appdaddy.ai).
+- Black Label: the world's first black-label business model; enterprise-only, offered by eligibility.
+
+## Pages
+- Home: https://appdaddy.ai/
+- Platform (all apps): https://appdaddy.ai/#platform
+- Enterprise (White Label & Black Label): https://appdaddy.ai/#enterprise
+- Affiliate (coming soon): https://appdaddy.ai/#affiliate
+- Contact: https://appdaddy.ai/#contact
+- Privacy Policy: https://appdaddy.ai/#privacy
+- Terms of Use: https://appdaddy.ai/#terms
+
+## FAQ
+- What is Appdaddy.ai? A super-AI business ecosystem that lets you find, plan and launch a complete marketing funnel in about 10 minutes using 20+ AI apps under one login.
+- How fast can I launch? Around 10 minutes, via the four-step Find, Think, Build, Launch flow.
+- Who is it for? Business owners, coaches, consultants, agencies, freelancers and course creators.
+- Do I need coding or a team? No — it is built for non-technical founders.
+- How do I start? Use the Get Started button or email info@appdaddy.ai.
